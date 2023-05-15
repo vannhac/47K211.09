@@ -1,0 +1,641 @@
+.dangki-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dangki-dangki {
+  width: 403px;
+  height: 871px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dangki-text {
+  top: 30px;
+  left: 65px;
+  color: rgba(0, 0, 0, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.dangki-text02 {
+  top: 90px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  width: 288px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.dangki-input-text {
+  top: 176px;
+  left: 16px;
+  width: 343px;
+  height: 60px;
+  position: absolute;
+}
+.dangki-text04 {
+  top: 191px;
+  left: 41px;
+  color: rgba(161, 165, 172, 1);
+  width: 210px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.dangki-text06 {
+  top: 466px;
+  left: 107px;
+  color: rgba(0, 0, 0, 1);
+  width: 210px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text07 {
+  color: rgba(0, 0, 0, 1);
+}
+.dangki-ima-enhchpmnhnh202305110005121 {
+  top: 466px;
+  left: 58px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+}
+.dangki-i-o-keyboard-light-numeric {
+  top: 521px;
+  left: 0px;
+  width: 375px;
+  height: 291px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(204, 206, 211, 1);
+}
+.dangki-background {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 291px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-background1 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 291px;
+  position: absolute;
+}
+.dangki-home-indicator {
+  top: 257px;
+  left: 0px;
+  width: 375px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-home-indicator1 {
+  top: 21px;
+  left: 121px;
+  width: 134px;
+  height: 5px;
+  position: absolute;
+  border-radius: 100px;
+}
+.dangki-keys {
+  top: 6px;
+  left: 6px;
+  width: 363px;
+  height: 207px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dangki-delete {
+  top: 174px;
+  left: 295px;
+  width: 24px;
+  height: 18px;
+  position: absolute;
+}
+.dangki-frame0 {
+  top: 161px;
+  left: 123px;
+  width: 117px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 46px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text09 {
+  top: 7px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-frame9 {
+  top: 107px;
+  left: 246px;
+  width: 117px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background01 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 47px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text10 {
+  top: 29.630434036254883px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text12 {
+  top: 1.02173912525177px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-frame8 {
+  top: 107px;
+  left: 123px;
+  width: 117px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background02 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 47px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text13 {
+  top: 29.630434036254883px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text15 {
+  top: 1.02173912525177px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-frame7 {
+  top: 107px;
+  left: 0px;
+  width: 117px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background03 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 47px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text16 {
+  top: 29.630434036254883px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text18 {
+  top: 1.02173912525177px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-frame6 {
+  top: 53px;
+  left: 246px;
+  width: 117px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background04 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 47px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text19 {
+  top: 29.630434036254883px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text21 {
+  top: 1.02173912525177px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-frame5 {
+  top: 53px;
+  left: 123px;
+  width: 117px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background05 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 47px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text22 {
+  top: 29.630434036254883px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text24 {
+  top: 1.02173912525177px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-frame4 {
+  top: 53px;
+  left: 0px;
+  width: 117px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background06 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 47px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text25 {
+  top: 29.630434036254883px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text27 {
+  top: 1.02173912525177px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-frame3 {
+  top: 0px;
+  left: 246px;
+  width: 117px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background07 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 46px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text28 {
+  top: 29px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text30 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-frame2 {
+  top: 0px;
+  left: 123px;
+  width: 117px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background08 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 46px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text31 {
+  top: 29px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text33 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangki-key-background09 {
+  top: 0px;
+  left: 0px;
+  width: 117px;
+  height: 46px;
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px rgba(137, 138, 141, 1) ;
+}
+.dangki-text34 {
+  top: 29px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-text35 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangki-group42 {
+  top: 290px;
+  left: 16px;
+  width: 343px;
+  height: 51px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dangki-button-primary {
+  gap: 12px;
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  display: flex;
+  padding: 16px 32px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  flex-direction: column;
+  background-color: var(--dl-color-green-primary);
+}
+.dangki-text36 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  text-align: center;
+  line-height: normal;
+}

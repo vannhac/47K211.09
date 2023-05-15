@@ -1,0 +1,247 @@
+.frame13-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame13-frame13 {
+  width: 387px;
+  height: 785px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame13-page-header {
+  top: 17px;
+  left: 16px;
+  width: 343px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame13-text {
+  top: 8px;
+  left: 278px;
+  color: var(--dl-color-green-primary);
+  height: auto;
+  position: absolute;
+  text-align: right;
+  line-height: normal;
+}
+.frame13-text02 {
+  left: 173px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame13-text03 {
+  top: 9px;
+  color: var(--dl-color-green-primary);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame13-text05 {
+  top: 21px;
+  left: 113px;
+  color: rgba(0, 0, 0, 1);
+  width: 151px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame13-line83 {
+  top: 48px;
+  left: 16px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame13-text07 {
+  top: 79px;
+  left: 65px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame13-checkbox-filled {
+  top: 78px;
+  left: 32px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame13-bg {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame13-icon-checkmark {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame13-line84 {
+  top: 107px;
+  left: 18px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame13-text09 {
+  top: 140px;
+  left: 63px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame13-checkbox-filled1 {
+  top: 139px;
+  left: 36px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame13-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame13-icon-checkmark1 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame13-line85 {
+  top: 159px;
+  left: 16px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame13-text11 {
+  top: 206px;
+  left: 65px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame13-checkbox-filled2 {
+  top: 206px;
+  left: 36px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame13-bg2 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame13-icon-checkmark2 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame13-line88 {
+  top: 222px;
+  left: 18px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame13-text13 {
+  top: 261px;
+  left: 65px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame13-checkbox-filled3 {
+  top: 260px;
+  left: 36px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame13-bg3 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame13-icon-checkmark3 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame13-line881 {
+  top: 293px;
+  left: 18px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}

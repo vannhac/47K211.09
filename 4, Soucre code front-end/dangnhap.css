@@ -1,0 +1,195 @@
+.dangnhap-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.dangnhap-dangnhap {
+  width: 377px;
+  height: 778px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dangnhap-ima-enhchpmnhnh202305102356283 {
+  top: 24px;
+  left: 85px;
+  width: 205px;
+  height: 121px;
+  position: absolute;
+}
+.dangnhap-input-text {
+  top: 190px;
+  left: 16px;
+  width: 343px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangnhap-bg {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 50px;
+  position: absolute;
+}
+.dangnhap-text {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-gray-03);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.dangnhap-input-text1 {
+  top: 295px;
+  left: 16px;
+  width: 343px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangnhap-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 50px;
+  position: absolute;
+}
+.dangnhap-text02 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-gray-03);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.dangnhap-input-text2 {
+  top: 400px;
+  left: 16px;
+  width: 343px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dangnhap-bg2 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 50px;
+  position: absolute;
+}
+.dangnhap-text04 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-gray-03);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.dangnhap-text06 {
+  top: 16px;
+  left: 292px;
+  color: var(--dl-color-green-primary);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dangnhap-text08 {
+  top: 495px;
+  left: 217px;
+  color: var(--dl-color-green-primary);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.dangnhap-group41 {
+  top: 544px;
+  left: 16px;
+  width: 343px;
+  height: 51px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dangnhap-button-primary {
+  gap: 12px;
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  display: flex;
+  padding: 16px 32px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  flex-direction: column;
+  background-color: var(--dl-color-green-primary);
+}
+.dangnhap-text10 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  text-align: center;
+  line-height: normal;
+}
+.dangnhap-text12 {
+  top: 625px;
+  left: 89px;
+  color: rgba(0, 0, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.dangnhap-ima-enhchpmnhnh202305102356284 {
+  top: 677px;
+  left: 123px;
+  width: 107px;
+  height: 63px;
+  position: absolute;
+}
+.dangnhap-text14 {
+  top: 759px;
+  left: 86px;
+  color: rgba(0, 0, 0, 1);
+  width: 210px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.dangnhap-text15 {
+  color: rgba(0, 0, 0, 1);
+}
+.dangnhap-ima-enhchpmnhnh202305110005121 {
+  top: 750px;
+  left: 73.81298828125px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+}

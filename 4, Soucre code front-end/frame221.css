@@ -1,0 +1,226 @@
+.frame221-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame221-frame22 {
+  width: 422px;
+  height: 739px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame221-text {
+  top: 17px;
+  left: 33px;
+  color: rgba(0, 0, 0, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame221-text02 {
+  top: 17px;
+  left: 248px;
+  color: rgba(93, 176, 117, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame221-text04 {
+  top: 76px;
+  left: 33px;
+  color: rgba(0, 0, 0, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame221-input-text {
+  top: 131px;
+  left: 16px;
+  width: 343px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame221-bg {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 50px;
+  position: absolute;
+}
+.frame221-text06 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame221-input-text1 {
+  top: 214px;
+  left: 16px;
+  width: 343px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame221-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 50px;
+  position: absolute;
+}
+.frame221-text08 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame221-input-text2 {
+  top: 296px;
+  left: 16px;
+  width: 343px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame221-bg2 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 50px;
+  position: absolute;
+}
+.frame221-text10 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame221-text12 {
+  top: 378px;
+  left: 37px;
+  color: rgba(0, 0, 0, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame221-input-search {
+  top: 443px;
+  left: 27px;
+  width: 149px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame221-bg3 {
+  top: 0px;
+  left: 0px;
+  width: 149px;
+  height: 50px;
+  position: absolute;
+}
+.frame221-text14 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame221-input-search1 {
+  top: 525px;
+  left: 32px;
+  width: 149px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame221-bg4 {
+  top: 0px;
+  left: 0px;
+  width: 149px;
+  height: 50px;
+  position: absolute;
+}
+.frame221-text16 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame221-input-search2 {
+  top: 607px;
+  left: 32px;
+  width: 149px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame221-bg5 {
+  top: 0px;
+  left: 0px;
+  width: 149px;
+  height: 50px;
+  position: absolute;
+}
+.frame221-text18 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}

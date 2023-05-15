@@ -1,0 +1,128 @@
+.frame23-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame23-frame23 {
+  width: 428px;
+  height: 788px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame23-text {
+  top: 13px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame23-input-text {
+  top: 84px;
+  left: 0px;
+  width: 375px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame23-bg {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 50px;
+  position: absolute;
+}
+.frame23-text2 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame23-ima-enhchpmnhnh202305121402132 {
+  top: 90px;
+  left: 312px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+}
+.frame23-ima-enhchpmnhnh202305131234441 {
+  top: 266px;
+  left: 0px;
+  width: 375px;
+  height: 395px;
+  opacity: 0.10;
+  position: absolute;
+}
+.frame23-ima-enhchpmnhnh202305131235361 {
+  top: 169px;
+  left: 0px;
+  width: 375px;
+  height: 62px;
+  position: absolute;
+}
+.frame23-input-search {
+  top: 713px;
+  left: 16px;
+  width: 149px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame23-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 149px;
+  height: 50px;
+  position: absolute;
+}
+.frame23-text4 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame23-input-search1 {
+  top: 713px;
+  left: 209px;
+  width: 149px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame23-bg2 {
+  top: 0px;
+  left: 0px;
+  width: 149px;
+  height: 50px;
+  position: absolute;
+}
+.frame23-text6 {
+  top: 16px;
+  left: 16px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}

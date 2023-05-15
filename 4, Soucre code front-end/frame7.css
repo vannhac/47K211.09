@@ -1,0 +1,98 @@
+.frame7-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame7-frame7 {
+  width: 369px;
+  height: 774px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame7-text {
+  top: 38px;
+  left: 41px;
+  color: rgba(93, 176, 117, 1);
+  width: 239px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame7-ima-enhchpmnhnh202305102339371 {
+  top: 357px;
+  left: 25px;
+  width: 325px;
+  height: 188px;
+  position: absolute;
+}
+.frame7-input-text {
+  top: 268px;
+  left: 25px;
+  width: 325px;
+  height: 50px;
+  position: absolute;
+}
+.frame7-input-text1 {
+  top: 146px;
+  left: 25px;
+  width: 325px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame7-bg {
+  top: 0px;
+  left: 0px;
+  width: 325px;
+  height: 52px;
+  position: absolute;
+}
+.frame7-text2 {
+  top: 17px;
+  left: 16px;
+  color: var(--dl-color-gray-03);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame7-text4 {
+  top: 276px;
+  left: 126px;
+  color: rgba(0, 0, 0, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame7-text6 {
+  top: 673px;
+  left: 74px;
+  color: rgba(0, 0, 0, 1);
+  width: 288px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame7-text7 {
+  color: rgba(0, 0, 0, 1);
+}
+.frame7-ima-enhchpmnhnh202305110005121 {
+  top: 660px;
+  left: 25px;
+  width: 53px;
+  height: 55px;
+  position: absolute;
+}

@@ -1,0 +1,824 @@
+.frame12-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame12-frame12 {
+  width: 370px;
+  height: 816px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame12-page-header {
+  top: 7px;
+  left: 16px;
+  width: 343px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-text {
+  top: 8px;
+  left: 278px;
+  color: var(--dl-color-green-primary);
+  height: auto;
+  position: absolute;
+  text-align: right;
+  line-height: normal;
+}
+.frame12-text02 {
+  left: 173px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text03 {
+  top: 9px;
+  color: var(--dl-color-green-primary);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame12-text05 {
+  top: 56px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text07 {
+  top: 97px;
+  left: 49px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text09 {
+  top: 181px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text11 {
+  top: 222px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text13 {
+  top: 264px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text15 {
+  top: 306px;
+  left: 49px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text17 {
+  top: 348px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text19 {
+  top: 390px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text21 {
+  top: 472px;
+  left: 49px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text23 {
+  top: 514px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text25 {
+  top: 556px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text27 {
+  top: 598px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text29 {
+  top: 640px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text31 {
+  top: 682px;
+  left: 49px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text33 {
+  top: 139px;
+  left: 49px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text35 {
+  top: 724px;
+  left: 49px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-text37 {
+  top: 430px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-line82 {
+  top: 38.50000762939453px;
+  left: 18.0029239654541px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line83 {
+  top: 38.5px;
+  left: 18.0029296875px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line84 {
+  top: 84px;
+  left: 18px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line85 {
+  top: 125px;
+  left: 18px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line86 {
+  top: 167px;
+  left: 17px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line87 {
+  top: 209px;
+  left: 18px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line88 {
+  top: 251px;
+  left: 19px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line89 {
+  top: 293px;
+  left: 20px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line90 {
+  top: 335px;
+  left: 21px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line91 {
+  top: 377px;
+  left: 22px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line92 {
+  top: 419px;
+  left: 23px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line93 {
+  top: 461px;
+  left: 24px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line94 {
+  top: 503px;
+  left: 25px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line95 {
+  top: 545px;
+  left: 19px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line96 {
+  top: 584px;
+  left: 18px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line97 {
+  top: 629px;
+  left: 19px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line98 {
+  top: 668px;
+  left: 19px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line99 {
+  top: 713px;
+  left: 20px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-line100 {
+  top: 752px;
+  left: 20px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.frame12-checkbox-filled {
+  top: 640px;
+  left: 38px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled01 {
+  top: 556px;
+  left: 37px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg01 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark01 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled02 {
+  top: 514px;
+  left: 37px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg02 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark02 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled03 {
+  top: 475px;
+  left: 22px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg03 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark03 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled04 {
+  top: 430px;
+  left: 22px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg04 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark04 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled05 {
+  top: 390px;
+  left: 38px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg05 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark05 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled06 {
+  top: 348px;
+  left: 38px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg06 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark06 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled07 {
+  top: 305px;
+  left: 22px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg07 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark07 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled08 {
+  top: 142px;
+  left: 22px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg08 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark08 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled09 {
+  top: 97px;
+  left: 22px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg09 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark09 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled10 {
+  top: 56px;
+  left: 22px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg10 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark10 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled11 {
+  top: 264px;
+  left: 38px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg11 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark11 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled12 {
+  top: 222px;
+  left: 38px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg12 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark12 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled13 {
+  top: 181px;
+  left: 38px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg13 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark13 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled14 {
+  top: 682px;
+  left: 22px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg14 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark14 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-checkbox-filled15 {
+  top: 724px;
+  left: 22px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg15 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark15 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame12-text39 {
+  top: 14px;
+  left: 108px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.frame12-checkbox-filled16 {
+  top: 598px;
+  left: 37px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame12-bg16 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(75, 147, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.frame12-icon-checkmark16 {
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}

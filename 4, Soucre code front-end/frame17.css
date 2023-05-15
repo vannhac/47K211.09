@@ -1,0 +1,368 @@
+.frame17-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame17-frame17 {
+  width: 401px;
+  height: 848px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame17-text {
+  top: 173px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text02 {
+  top: 171px;
+  left: 149px;
+  color: rgba(161, 165, 172, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text04 {
+  top: 218px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text06 {
+  top: 216px;
+  left: 149px;
+  color: rgba(161, 165, 172, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text08 {
+  top: 394px;
+  left: 149px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text09 {
+  top: 488px;
+  left: 149px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text10 {
+  top: 441px;
+  left: 149px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text11 {
+  top: 349px;
+  left: 149px;
+  color: rgba(161, 165, 172, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text13 {
+  top: 536px;
+  left: 149px;
+  color: rgba(161, 165, 172, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text15 {
+  top: 306px;
+  left: 149px;
+  color: rgba(161, 165, 172, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text17 {
+  top: 263px;
+  left: 149px;
+  color: rgba(161, 165, 172, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text19 {
+  top: 216px;
+  left: 149px;
+  color: rgba(161, 165, 172, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-line108 {
+  top: 333px;
+  left: 140px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame17-line109 {
+  top: 374px;
+  left: 140px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame17-line110 {
+  top: 419px;
+  left: 149px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame17-line111 {
+  top: 464px;
+  left: 149px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame17-text21 {
+  top: 267px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text23 {
+  top: 308px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text25 {
+  top: 47px;
+  left: 59px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text27 {
+  top: 49px;
+  left: 281px;
+  color: rgba(36, 206, 133, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text29 {
+  top: 349px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 105px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text31 {
+  top: 394px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text33 {
+  top: 439px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text35 {
+  top: 485px;
+  left: 8px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-text37 {
+  top: 534px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-line102 {
+  top: 196px;
+  left: 136px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame17-line103 {
+  top: 288px;
+  left: 137px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame17-line104 {
+  top: 241px;
+  left: 137px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame17-line106 {
+  top: 566px;
+  left: 140px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame17-line112 {
+  top: 510px;
+  left: 149px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame17-input-text {
+  top: 594px;
+  left: -1px;
+  width: 375px;
+  height: 93px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame17-bg {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 93px;
+  position: absolute;
+}
+.frame17-text39 {
+  top: 38px;
+  left: 16px;
+  color: var(--dl-color-gray-03);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-input-text1 {
+  top: 711px;
+  left: -1px;
+  width: 375px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame17-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 79px;
+  position: absolute;
+}
+.frame17-text41 {
+  top: 31px;
+  left: 16px;
+  color: var(--dl-color-gray-03);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame17-close {
+  top: 45px;
+  left: 4px;
+  width: 29px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.frame17-close1 {
+  top: 5.625px;
+  left: 6.041666507720947px;
+  width: 17px;
+  height: 16px;
+  position: absolute;
+}
+.frame17-image3 {
+  top: 84px;
+  left: 14px;
+  width: 88px;
+  height: 78px;
+  position: absolute;
+}

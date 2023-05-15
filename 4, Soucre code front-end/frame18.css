@@ -1,0 +1,351 @@
+.frame18-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame18-frame18 {
+  width: 452px;
+  height: 808px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame18-text {
+  top: 39px;
+  left: 60px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text02 {
+  top: 37px;
+  left: 306px;
+  color: rgba(36, 206, 133, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-close {
+  top: 35px;
+  left: 17px;
+  width: 29px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.frame18-close1 {
+  top: 5.625px;
+  left: 6.041666507720947px;
+  width: 17px;
+  height: 16px;
+  position: absolute;
+}
+.frame18-image2 {
+  top: 81px;
+  left: 135px;
+  width: 88px;
+  height: 78px;
+  position: absolute;
+}
+.frame18-image1 {
+  top: 81px;
+  left: 18px;
+  width: 83px;
+  height: 78px;
+  position: absolute;
+}
+.frame18-text04 {
+  top: 194px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text06 {
+  top: 192px;
+  left: 147px;
+  color: rgba(0, 0, 0, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-line102 {
+  top: 219px;
+  left: 126px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame18-text08 {
+  top: 232px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text10 {
+  top: 229px;
+  left: 141px;
+  color: rgba(161, 165, 172, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-line104 {
+  top: 250px;
+  left: 126px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame18-text12 {
+  top: 271px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 83px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text14 {
+  top: 269px;
+  left: 134px;
+  color: rgba(0, 0, 0, 1);
+  width: 202px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text16 {
+  top: 304px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text18 {
+  top: 305px;
+  left: 135px;
+  color: rgba(0, 0, 0, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-line108 {
+  top: 329px;
+  left: 137px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame18-text20 {
+  top: 337px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 105px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text22 {
+  top: 337px;
+  left: 163px;
+  color: rgba(0, 0, 0, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-line109 {
+  top: 362px;
+  left: 134px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame18-text24 {
+  top: 391px;
+  left: 147px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text26 {
+  top: 391px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text28 {
+  top: 436px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text30 {
+  top: 438px;
+  left: 145px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-line111 {
+  top: 461px;
+  left: 138px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame18-text32 {
+  top: 490px;
+  left: 27px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text34 {
+  top: 488px;
+  left: 147px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-line112 {
+  top: 510px;
+  left: 135px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame18-text36 {
+  top: 529px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-text38 {
+  top: 529px;
+  left: 138px;
+  color: rgba(161, 165, 172, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-line106 {
+  top: 554px;
+  left: 136.00013732910156px;
+  width: 219px;
+  height: 1px;
+  position: absolute;
+}
+.frame18-input-text {
+  top: 602px;
+  left: 14px;
+  width: 354px;
+  height: 84px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame18-bg {
+  top: 0px;
+  left: 0px;
+  width: 354px;
+  height: 84px;
+  position: absolute;
+}
+.frame18-text40 {
+  top: 33px;
+  left: 16px;
+  color: var(--dl-color-gray-03);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.frame18-input-text1 {
+  top: 716px;
+  left: 14px;
+  width: 354px;
+  height: 74px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame18-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 354px;
+  height: 74px;
+  position: absolute;
+}
+.frame18-text42 {
+  top: 28px;
+  left: 16px;
+  color: var(--dl-color-gray-03);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
